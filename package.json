@@ -1,0 +1,26 @@
+{
+  "name": "test_bot",
+  "version": "1.0.0",
+  "description": "Test Repo for Discord.js test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chorwhat/test_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chorwhat/test_bot/issues"
+  },
+  "homepage": "https://github.com/Chorwhat/test_bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^1.5.0",
+    "@discordjs/rest": "^1.6.0",
+    "discord-api-types": "^0.37.35",
+    "discord.js": "^14.8.0"
+  }
+}
